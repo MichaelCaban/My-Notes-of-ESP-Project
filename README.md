@@ -8,7 +8,7 @@ The ESP 32 Project
 To Create a functioning WIFI PENETRATION TOOL!!!
 
 ### links to documentation
-[Works owner i thank him for his'/'her help](Link: https://github.com/risinek/esp32-wifi-penetration-tool)
+[Works owner i thanks for the help](Link: https://github.com/risinek/esp32-wifi-penetration-tool)
 
 ### steps that i followed
 
