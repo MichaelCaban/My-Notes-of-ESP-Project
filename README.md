@@ -4,11 +4,11 @@ School work
 ### Name of project
 The ESP 32 Project
 
-### Perpose
+### Purpose
 To Create a functioning WIFI PENETRATION TOOL!!!
 
-### links to documentation
+### Links For Documentation
 [Works owner thanks for the help Link](https://github.com/risinek/esp32-wifi-penetration-tool)
 
-### steps that i followed
+### Steps That I Followed
 
