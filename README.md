@@ -19,15 +19,16 @@ ESP32 Flash Download Tool V 3.9.3
 
 ### Steps That I Followed
 I am a windows user so this will work best if you are on windows
-First Step:
+1:
 Download all the files from the link above and extract it to the desktop or some where easy to get access to.
 
-Second Step:
+2:
 Download this [Flash Download Tool](https://www.espressif.com/en/support/download/other-tools)
 
-Third Step:
+3:
 When finished downloading you will need to open it and start the prosses to install it to your Esp32 device
 
+4:
 
 
 
