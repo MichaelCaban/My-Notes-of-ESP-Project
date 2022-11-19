@@ -12,8 +12,20 @@ To Create a functioning WIFI PENETRATION TOOL!!!
 
 ### Steps That I Followed
 First Step:
-When making the Wifi Pennetration Tool i first had to install python from the internet
+This is for thoese who are doing this on WINDOWS Download this [Flash Download Tool](https://www.espressif.com/en/support/download/other-tools)
 
 Second Step:
+
+Third Step:
+
+
+
+When making the Wifi Pennetration Tool i first had to install python from the internet
+
+
 After installing python you go to the CMD you can do that by typing it in run which you right click the start key and right clicking it or you type it in the search bar on the taskbar
 
+
+
+
+### What i had trouble with
