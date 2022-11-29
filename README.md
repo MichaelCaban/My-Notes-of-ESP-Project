@@ -29,8 +29,11 @@ Download this [Flash Download Tool](https://www.espressif.com/en/support/downloa
 When finished downloading you will need to open it and start the prosses to install it to your Esp32 device
 
 4:
+You will then get the option to choose the ESP you will obiously choose ESP 32 option
 
-
+5:
+Soon after you choose the ESP32 you will have to fill out the SPIDownload and will fill it out like so.
+(https://user-images.githubusercontent.com/113206250/204481939-edaea826-cf59-4083-90c6-a6585b6da5f7.PNG)
 
 
 When making the Wifi Pennetration Tool i first had to install python from the internet
